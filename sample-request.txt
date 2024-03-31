@@ -1,0 +1,8 @@
+curl --location 'localhost:9090/lyrics/predict' \
+--header 'Content-Type: text/plain' \
+--data 'There'\''s a place in your heart
+And I know that it is love
+And this place could much brighter than tomorrow
+And if you really try
+You'\''ll find there'\''s no need to cry
+In this place, you'\''ll feel there'\''s no hurt or sorrow'
